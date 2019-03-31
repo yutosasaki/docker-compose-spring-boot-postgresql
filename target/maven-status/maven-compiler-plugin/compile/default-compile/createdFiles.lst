@@ -1,0 +1,5 @@
+com/example/controller/ItemController.class
+com/example/DemoApplication.class
+com/example/repository/ItemRepository.class
+com/example/entity/Item.class
+com/example/service/ItemService.class
